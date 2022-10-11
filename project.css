@@ -1,0 +1,26 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color: rgb(0,128,128);
+}
+/* #maindiv{
+    text-align: center;
+} */
+.add-task{
+    height: 35px !important;
+}
+.buttons{
+    width:30px;
+    margin:2px ;
+    border-radius: 5%;
+    border:0px;
+
+}
+.divii{
+    text-align: center;
+}
+.span{
+    word-break: break-word;
+}
